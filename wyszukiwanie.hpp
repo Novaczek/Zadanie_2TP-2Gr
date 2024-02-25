@@ -1,5 +1,5 @@
-#ifndef SEARCH_HPP
-#define SEARCH_HPP
+#ifndef WYSZUKIWANIE_HPP
+#define WYSZUKIWANIE_HPP
 
 #include <iostream>
 #include <cmath> // dla funkcji sqrt
